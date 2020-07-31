@@ -1,0 +1,3 @@
+type=command
+dependencies=init_dw_sales_order_dws
+command=/opt/apps/hive-1.1.0-cdh5.7.6/bin/hive -f init_dw_sales_order_dm.hql

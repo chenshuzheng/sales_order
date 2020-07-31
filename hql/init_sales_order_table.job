@@ -1,0 +1,2 @@
+type=command
+command=/opt/apps/hive-1.1.0-cdh5.7.6/bin/hive -f init_sales_order_table.hql
